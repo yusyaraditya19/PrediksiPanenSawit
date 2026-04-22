@@ -26,4 +26,4 @@ Dataset berisi data kelapa sawit yang mencakup variabel lingkungan seperti NDVI,
 - requirements.txt
 
 ## Author
-Nama: (isi nama kamu)
+Nama: Yusya Raditya - 10124059
